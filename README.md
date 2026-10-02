@@ -48,5 +48,5 @@ I'm eager to learn, take on challenges, and gain professional experience in the 
 ## Contact
 
 * **GitHub:** https://github.com/skamalathasan
-* **LinkedIn:** https://www.linkedin.com/in/s-kamalathasan-3881323b8
+* **LinkedIn:** www.linkedin.com/in/srijan-kamalathasan-3881323b8
 * **Email:** kamalats@uoguelph.ca
