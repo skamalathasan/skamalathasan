@@ -1,5 +1,3 @@
-# Computer Science Internship — Winter 2027
-
 Hi, I'm **Srijan Kamalathasan**, a Computer Science student at the **University of Guelph** seeking an internship for **Winter 2027 (January 2027 through April 2027)**.
 
 I'm an early-career developer looking to gain hands-on industry experience, contribute to a team, and continue developing my technical skills.
