@@ -43,7 +43,7 @@ I'm open to a variety of technology and Computer Science roles, including but no
 * QA / Testing
 * IT / Technical Roles
 
-I'm eager to learn, take on challenges, and gain my first professional experience in the industry.
+I'm eager to learn, take on challenges, and gain professional experience in the industry.
 
 ## Contact
 
