@@ -27,6 +27,11 @@ Accure is a web application that helps a small business track its money. You rec
 
 **Tech:** Next.js (App Router) with React and TypeScript. Styled with Tailwind CSS. Chart drawn with Recharts. Python with FastAPI. 
 
+### Syrup (https://github.com/skamalathasan/Syrup)
+
+A privacy-first browser extension that finds cheaper prices for products on Amazon and Best Buy. No tracking, no accounts, no stored data.
+
+**Tech:** JavaScript, Chrome Extension APIs (Manifest V3), HTML/CSS
 
 ## What I'm Looking For
 
