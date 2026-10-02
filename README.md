@@ -13,7 +13,7 @@ I'm an early-career developer looking to gain hands-on industry experience, cont
 
 ## Skills
 
-**Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, C, C++, SQL, R
+**Languages:** Python, Java, JavaScript, TypeScript, HTML/CSS, C, C++, SQL, R
 
 **Tools & Technologies:** Git, GitHub, CI/CD, Docker, Google Cloud
 
