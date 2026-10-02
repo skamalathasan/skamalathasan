@@ -17,7 +17,7 @@ I'm an early-career developer looking to gain hands-on industry experience, cont
 
 **Tools & Technologies:** Git, GitHub, CI/CD, Docker, Google Cloud
 
-**Currently Learning:** AWS, Figma, Data Modeling, ETL Pipelines
+**Currently Learning:** AWS, Figma, Data Modeling, ETL Pipelines, and much more!
 
 ## Projects
 
