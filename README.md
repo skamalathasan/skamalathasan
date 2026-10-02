@@ -1,16 +1,49 @@
-## Hi there 👋
+# Computer Science Internship — Winter 2027
 
-<!--
-**skamalathasan/skamalathasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Srijan Kamalathasan**, a Computer Science student at the **University of Guelph** seeking an internship for **Winter 2027 (January 2027 through April 2027)**.
 
-Here are some ideas to get you started:
+I'm an early-career developer looking to gain hands-on industry experience, contribute to a team, and continue developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 🎓 **University:** University of Guelph
+* 💻 **Program:** Computer Science
+* 📚 **Year:** 2nd
+* 📍 **Based in:** Brampton, Ontario
+* 🚗 **Open to:** Brampton, Mississauga, Guelph, GTA, and more.
+* 💼 **Seeking:** Winter 2027 Internship
+
+## Skills
+
+**Languages:** Python, Java, JavaScript, TypeScript, C++, SQL, R
+
+**Tools & Technologies:** Git, GitHub, CI/CD, Docker, Google Cloud
+
+**Currently Learning:** AWS, Figma, Data Modeling, ETL Pipelines
+
+## Projects
+
+### Accure (https://github.com/skamalathasan/Accure)
+
+Accure is a web application that helps a small business track its money. You record each payment as a transaction that is either income (money in) or an expense (money out). The app then shows a dashboard with Total Income, Total Expenses, and Net Profit (income minus expenses), plus a monthly chart. All data is saved in a database, so it is still there after you refresh the page or restart the app.
+
+**Tech:** Next.js (App Router) with React and TypeScript. Styled with Tailwind CSS. Chart drawn with Recharts. Python with FastAPI. 
+
+
+## What I'm Looking For
+
+I'm open to a variety of technology and Computer Science roles, including but not limited to:
+
+* Software Development
+* Web Development
+* Data / AI
+* QA / Testing
+* IT / Technical Roles
+
+I'm eager to learn, take on challenges, and gain my first professional experience in the industry.
+
+## Contact
+
+* **GitHub:** https://github.com/skamalathasan
+* **LinkedIn:** https://www.linkedin.com/in/s-kamalathasan-3881323b8
+* **Email:** kamalats@uoguelph.ca
